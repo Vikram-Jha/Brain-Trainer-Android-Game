@@ -1,3 +1,5 @@
+# Brain-Trainer-Android-Game
+![Copy of seek bar (3)](https://github.com/Vikram-Jha/Brain-Trainer-Android-game/blob/master/Quotable-2.jpg)
 # Brain Trainer
 1. To exercise your brain's short-term memory, concentration and focus.
 2. This is a single-player game, a user gets 30 seconds to answer MCQs.
@@ -8,4 +10,3 @@
 7. Player can attempt unlimited questions in 30 seconds.
 8. After the 30s timer, the game stops.
 9. Player can reset the game using the play again button.
-![Copy of seek bar (3)](https://github.com/Vikram-Jha/Brain-Trainer-Android-game/blob/master/Quotable-2.jpg)
